@@ -5,7 +5,7 @@
 
 # Already Done
 * ~~Install MangoDB~~
-* Read http://mongodb.github.io/casbah/tutorial.html
+* ~~Read http://mongodb.github.io/casbah/tutorial.html~~
 
 # TO DO (backlog)
 * Learn how to use twitter streaming API for other purpose
